@@ -63,8 +63,9 @@ float: right;
 }
 
 .welcome2{
-  padding-left: 150px;
-  padding-right: 150px;
+  padding-left: auto;
+  padding-right: auto;
+  width: auto;
 }
 
 .btn{
